@@ -5,4 +5,5 @@ languages supported:
 - Gujarati
 - Marathi
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf21b4d1-9772-4c9d-9a4e-9ba4ea72427c" />
+<img width="1004" height="593" alt="image" src="https://github.com/user-attachments/assets/bcfd51a6-c24f-49f6-b760-55d39718cc24" />
+
